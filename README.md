@@ -25,7 +25,6 @@ Our 3D vision systems help robots perceive complex environments, recognize objec
 ## Explore ALSONTECH
 
 - **Official Website:** https://en.alsontech.com/
-- **Product Information:** https://en.alsontech.com/
 - **Download Center:** [ALSONTECH Official Download Center](https://support-alsontech.com:3443/en/home)
 - **YouTube:** [ALSONTECH on YouTube](https://www.youtube.com/@ALSONTECH_3DVISON)
 - **LinkedIn:** [ALSONTECH on LinkedIn](https://www.linkedin.com/company/alsontech/)
